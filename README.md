@@ -53,6 +53,28 @@ Front-End Web Developer | HTML | CSS | Bootstrap | JavaScript
 
 🚀 Available for **freelance projects**
 
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kabir-web-design&show_icons=true&theme=radical">
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-web-design&layout=compact&theme=radical">
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=kabir-web-design&theme=radical">
+</p>
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/kabir-web-design/kabir-web-design/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **kabir-web-design/kabir-web-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
