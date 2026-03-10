@@ -71,9 +71,7 @@ Front-End Web Developer | HTML | CSS | Bootstrap | JavaScript
 <img src="https://streak-stats.demolab.com/?user=kabir-web-design&theme=radical">
 </p>
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/kabir-web-design/kabir-web-design/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **kabir-web-design/kabir-web-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
