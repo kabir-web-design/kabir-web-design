@@ -37,7 +37,7 @@ Front-End Web Developer | HTML | CSS | Bootstrap | JavaScript
 
 - 🛒 **E-commerce Landing Page**  
   Modern responsive landing page design  
-  💻 Code: https://github.com/username/ecommerce
+  🔗 Live: (https://kabir-web-design.github.io/Project-Panda/)
 
 - 🔐 **Login Form Validation**  
   Form validation using JavaScript  
