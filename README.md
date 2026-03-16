@@ -32,8 +32,7 @@ Front-End Web Developer | HTML | CSS | Bootstrap | JavaScript
 
 - 🍔 **Restaurant Website**  
   Responsive website built using HTML, CSS, Bootstrap  
-  🔗 Live: https://projectname.netlify.app  
-  💻 Code: https://github.com/username/restaurant
+  🔗 Live: https://kabir-web-design.github.io/restaurant-website/
 
 - 🛒 **E-commerce Landing Page**  
   Modern responsive landing page design  
@@ -46,9 +45,11 @@ Front-End Web Developer | HTML | CSS | Bootstrap | JavaScript
   ## 📫 Connect With Me
 
 <p>
-<a href="mailto:yourmail@gmail.com">📧 Email</a> |
+<a href="mailto:kabir41233@gmail.com">📧 Email</a> |
+<a href="https://wa.me/8801533185780">💬 WhatsApp</a> |
 <a href="https://fiverr.com/username">💼 Fiverr</a> |
-<a href="https://github.com/username">🔗 GitHub</a>
+<a href="https://www.linkedin.com/in/username">🔗 LinkedIn</a> 
+
 </p>
 
 🚀 Available for **freelance projects**
