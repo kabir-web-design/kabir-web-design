@@ -48,8 +48,8 @@ Front-End Web Developer | HTML | CSS | Bootstrap | JavaScript
 <p>
 <a href="mailto:kabir41233@gmail.com">📧 Email</a> |
 <a href="https://wa.me/8801533185780">💬 WhatsApp</a> |
-<a href="https://fiverr.com/username">💼 Fiverr</a> |
-<a href="https://www.linkedin.com/in/username">🔗 LinkedIn</a> 
+<!--<a href="https://fiverr.com/username">💼 Fiverr</a> |
+<a href="https://www.linkedin.com/in/username">🔗 LinkedIn</a> -->
 
 </p>
 
